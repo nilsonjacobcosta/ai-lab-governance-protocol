@@ -146,52 +146,31 @@ Não criar uma nova trilha para cada técnica. Não transformar uma capacidade t
 
 # 6. Princípios de governança
 
-Cada princípio deve passar pelo mesmo protocolo de aprovação aplicado aos candidatos.
+Cada princípio substantivo deve passar pelo mesmo protocolo de aprovação aplicado aos candidatos e modelos reutilizáveis.
 
-### Protocolo
+### Protocolo de aprovação
+
+Para cada novo princípio, a formalização exige:
 
 1. proposta explícita;
 2. identificação da origem e natureza;
-3. evidência e relação com modelos/padrões;
+3. evidência e relação com modelos/padrões, quando houver;
 4. análise de sobreposição e distinção;
-5. limites de aplicação;
+5. definição dos limites de aplicação;
 6. aprovação explícita;
 7. registro de proveniência e decisão.
 
-### Princípios-base recomendados
+### Princípios substantivos são definidos por cada laboratório
 
-#### P1 — A IA apoia; não assume automaticamente a autoridade decisória
+O protocolo de governança **não prescreve um conjunto universal de princípios substantivos**. Cada laboratório de aplicação deve definir seus próprios princípios de acordo com seu domínio, escopo, evidências e decisões arquiteturais.
 
-Define a propriedade da decisão e preserva a autoridade humana/contextual apropriada.
+O conjunto de princípios do **ai-decision-intelligence-lab** — atualmente registrado em seu `PRINCIPLES.md` — constitui uma **aplicação concreta e referência histórica** desse processo, não parte normativa deste protocolo genérico.
 
-#### P2 — Qualidade e governança dos dados sustentam a confiabilidade da análise e da decisão
-
-Dados, contexto, qualidade e governança condicionam a confiabilidade das etapas posteriores.
-
-#### P3 — Rigor antes de reutilização
-
-A reutilização exige abstração e validação suficientes; utilidade aparente não basta.
-
-#### P4 — Separação entre análise e decisão
-
-O artefato analítico e a decisão dele derivada devem poder ser distinguidos conceitualmente e operacionalmente.
-
-P1 e P4 não são redundantes:
-
-- P1 trata de **autoridade decisória**;
-- P4 trata da **separação entre processo/artefato analítico e decisão**.
-
-#### P5 — Validação crítica
-
-Saídas analíticas devem permanecer sujeitas a validação proporcional ao contexto e ao risco.
-
-#### P6 — Não integração automática
-
-A existência de um modelo não implica sua integração automática a outro sistema, laboratório ou arquitetura.
+A adoção de um princípio por um laboratório de aplicação **não o transforma automaticamente em regra geral do protocolo**. Para que uma regra local seja promovida ao protocolo genérico, deve passar por avaliação própria de abstração, generalidade, evidência, distinção e aprovação.
 
 ### Regra importante
 
-Princípios não devem ser criados apenas porque “parecem bons”. Devem ter origem, natureza, evidência/justificativa, distinção e aprovação documentadas.
+Princípios não devem ser criados apenas porque “parecem bons”. Devem ter origem, natureza, evidência/justificativa, distinção, limites e aprovação documentadas.
 
 ---
 
