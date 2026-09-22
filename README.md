@@ -33,6 +33,10 @@ O protocolo completo está em **GOVERNANCE.md**.
 
 Esse arquivo é a referência normativa deste repositório.
 
+## Bootstrap de novo curso
+
+O procedimento operacional para abertura de um novo curso ou fonte de estudo está em **NEW-COURSE-BOOTSTRAP.md**.
+
 ## Laboratórios de aplicação
 
 Um laboratório que adote este protocolo deve:
