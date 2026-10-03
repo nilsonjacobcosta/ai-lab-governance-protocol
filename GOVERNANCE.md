@@ -357,6 +357,23 @@ Qualquer transferência para outra arquitetura exige avaliação própria, compa
 
 ---
 
+### Registro de proveniência — regras reforçadas pelo episódio de Gestão de Conhecimento
+
+Durante a análise do curso **Gestão de Conhecimento com IA**, três distinções metodológicas precisaram ser reconstruídas explicitamente ao longo da avaliação e, por sua utilidade geral, foram promovidas a regras permanentes do protocolo:
+
+1. **Ausência de evidência ≠ evidência positiva.**  
+   A não menção de uma condição não deve ser tratada como demonstração de que essa condição é dispensável.
+
+2. **Replicação/semelhança ≠ nova ocorrência independente.**  
+   Repetir o mesmo mecanismo, ou apresentar uma ocorrência apenas estruturalmente semelhante, não cria automaticamente uma nova evidência independente. O peso histórico da ocorrência deve ser preservado.
+
+3. **Maturidade intradomínio ≠ centralidade intertrilha.**  
+   Recorrência e maturidade dentro de um único domínio não demonstram, por si só, que o mecanismo seja uma capacidade transversal. A transversalidade exige teste de composição com operações funcionalmente diferentes e, quando possível, evidência real em mais de uma trilha.
+
+Essas regras não representam candidatos ou modelos produzidos pelo curso. O principal resultado arquitetural do episódio foi **melhorar permanentemente o instrumento de avaliação utilizado por fontes futuras**.
+
+A proveniência é registrada para evitar interpretação retrospectiva de que a fonte “não produziu resultado”: o curso não gerou um modelo formalizado, mas produziu refinamentos de governança que passaram a valer para todo o protocolo.
+
 # 16. Regra final
 
 O protocolo deve favorecer:
