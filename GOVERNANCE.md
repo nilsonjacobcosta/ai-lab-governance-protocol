@@ -138,6 +138,31 @@ Pergunta orientadora:
 
 > “Que mecanismo pode ser composto com diferentes operações?”
 
+### Adendo — maturidade intradomínio não demonstra centralidade intertrilha
+
+A recorrência de um mecanismo dentro de um único domínio ou trilha **não é suficiente para demonstrar que ele constitui uma área transversal**.
+
+Devem ser avaliadas separadamente:
+
+- **maturidade intradomínio:** recorrência, variações e estabilidade do mecanismo dentro do contexto em que foi observado;
+- **centralidade intertrilha:** capacidade do mesmo mecanismo de ser composto com operações funcionalmente diferentes em trilhas distintas do laboratório.
+
+Portanto:
+
+> **maturidade intradomínio ≠ centralidade intertrilha.**
+
+Para propor uma nova área transversal, não basta demonstrar que o mecanismo reaparece várias vezes no domínio de origem. É necessário testar explicitamente sua composição com diferentes operações e, quando possível, buscar **evidência real em mais de uma trilha funcional**.
+
+Casos hipotéticos podem demonstrar **possibilidade de composição**, mas não devem ser tratados como evidência de recorrência intertrilha.
+
+Quando não houver evidência real fora do domínio de origem, registrar separadamente:
+
+- maturidade do mecanismo no domínio observado;
+- hipótese de transversalidade;
+- ausência de evidência intertrilha.
+
+Essa distinção deve ser preservada até que novas evidências permitam reforçar, limitar ou rejeitar a hipótese.
+
 ### Regra de classificação
 
 Não criar uma nova trilha para cada técnica. Não transformar uma capacidade transversal em domínio funcional artificialmente.
